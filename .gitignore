@@ -1,0 +1,4 @@
+# Ignorar el entorno virtual
+venv-zotify/
+*.pyc
+__pycache__/
